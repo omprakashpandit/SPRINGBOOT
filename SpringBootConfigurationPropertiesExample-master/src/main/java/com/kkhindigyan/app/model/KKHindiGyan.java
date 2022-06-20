@@ -6,7 +6,7 @@ import java.util.Map;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-@ConfigurationProperties(prefix = "myapp")
+//@ConfigurationProperties(prefix = "myapp") 
 //@Component
 public class KKHindiGyan {
 
